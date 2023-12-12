@@ -12,6 +12,10 @@
   border-radius: 13px;
   background: #d2b48c;
   width: 200px;
-  margin: 30px;
+  margin-right: 60px;
   padding: 10px;
+}
+
+.card-list:last-child{
+  margin-right: 0;
 }
